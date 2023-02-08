@@ -1,0 +1,90 @@
+{
+    "Cat":
+    {
+        "Filename": "Sprites/Animation/Right/Cat",
+        "FrameCount": 8,
+        "FrameRate": 4,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+
+    "Crouch":
+    {
+        "Filename": "Sprites/Animation/Right/Crouch",
+        "FrameCount":8,
+        "FrameRate":4,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+
+    "Fall":
+    {
+        "Filename": "Sprites/Animation/Right/Fall",
+        "FrameCount": 3,
+        "FrameRate": 6,
+        "Origin":"Center",
+        "PlayType":"Loop"
+    },
+
+    "Jump":
+    {
+        "Filename": "Sprites/Animation/Right/Jump",
+        "FrameCount": 4,
+        "FrameRate": 6,
+        "Origin":"Center",
+        "PlayType": "Loop"
+    },
+
+    "Land":
+    {
+        "Filename": "Sprites/Animation/Right/Land",
+        "FrameCount": 2,
+        "FrameRate": 4,
+        "Origin":"Center",
+        "PlayType": "Loop"
+    },
+    "CatL":
+    {
+        "Filename": "Sprites/Animation/Left/Cat",
+        "FrameCount": 8,
+        "FrameRate": 4,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+
+    "CrouchL":
+    {
+        "Filename": "Sprites/Animation/Left/Crouch",
+        "FrameCount":8,
+        "FrameRate":4,
+        "Origin": "Center",
+        "PlayType": "Loop"
+    },
+
+    "FallL":
+    {
+        "Filename": "Sprites/Animation/Left/Fall",
+        "FrameCount": 3,
+        "FrameRate": 6,
+        "Origin":"Center",
+        "PlayType":"Loop"
+    },
+
+    "JumpL":
+    {
+        "Filename": "Sprites/Animation/Left/Jump",
+        "FrameCount": 4,
+        "FrameRate": 6,
+        "Origin":"Center",
+        "PlayType": "Loop"
+    },
+
+    "LandL":
+    {
+        "Filename": "Sprites/Animation/Left/Land",
+        "FrameCount": 2,
+        "FrameRate": 4,
+        "Origin":"Center",
+        "PlayType": "Loop"
+    }
+}
